@@ -62,7 +62,7 @@ El siguiente ejemplo muestra cómo rotar secretos, generar un token y verificarl
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone <url_del_repositorio>
+   git clone [<url_del_repositorio>](https://github.com/jaimeirazabal1/rotacion-de-tokens)
    ```
 2. Instala las dependencias necesarias:
    ```bash
